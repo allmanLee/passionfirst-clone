@@ -136,6 +136,7 @@ li {
   width: 400px;
   margin-bottom: 20px;
   margin-top: 80px;
+  padding-left: 100px;
   cursor: pointer;
   display: block;
   color: black;

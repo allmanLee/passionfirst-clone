@@ -9,7 +9,7 @@
       <div class="maincolor_content">
         <a href="#"
           ><img
-            src="../assets\img\thumbnail/maincolor-img.jpg"
+            src="../assets/img/thumbnail/maincolor-img.jpg"
             alt="maincolorimg"
         /></a>
         <a href="#" class="maincolor_find">Find a Store</a>
